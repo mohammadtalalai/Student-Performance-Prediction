@@ -1,8 +1,5 @@
 
- body {
-           
-</head>
-<body>
+   <body>
     <h1>Student Performance Prediction</h1>
 
   <h2>Project Overview</h2>
