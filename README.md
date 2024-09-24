@@ -6,34 +6,7 @@
     <title>Student Performance Prediction - README</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background-color: #f9f9f9;
-            border-left: 5px solid #ccc;
-            padding: 10px;
-            overflow-x: auto;
-        }
-        code {
-            font-family: 'Courier New', Courier, monospace;
-            background-color: #eee;
-            padding: 2px 4px;
-            font-size: 90%;
-        }
-        a {
-            color: #3498db;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+           
 </head>
 <body>
     <h1>Student Performance Prediction</h1>
